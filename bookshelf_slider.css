@@ -14,7 +14,7 @@
 /* panel title */
 
 .panel_title { 
-	background:#93643a url("https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_top_bg.jpg") repeat; color:#e4b173; width:960px; height:54px; text-align:center; margin:0 auto; overflow: hidden;
+	background:#93643a url(https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_top_bg.jpg) repeat; color:#e4b173; width:960px; height:54px; text-align:center; margin:0 auto; overflow: hidden;
 }
 
 .selected_title_box { text-align:left; display:none; }
