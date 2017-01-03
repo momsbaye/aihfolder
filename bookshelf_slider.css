@@ -31,7 +31,7 @@
 .menu_top ul { list-style:none; margin:0; padding:0; margin-top:0px; margin-left:10px; }
 .menu_top ul li { 
 	list-style:none; margin:0; padding:0; display:block; float:left; margin-right:5px; 
-	display:block; padding:4px 8px; outline:none; background:transparent url("https://github.com/momsbaye/aihfolder/blob/master/menutopli_bg.png") repeat;
+	display:block; padding:4px 8px; outline:none; background:transparent url(https://github.com/momsbaye/aihfolder/blob/master/menutopli_bg.png) repeat;
 	border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; border:#d39e6b solid 1px;
 	box-shadow:1px 1px 4px rgba(0, 0, 0, 0.4); -moz-box-shadow:1px 1px 4px rgba(0, 0, 0, 0.4); -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	}
@@ -49,7 +49,7 @@
 .panel_slider {
 	position:relative; border-bottom:1px solid #333; border-bottom-color:#aa7f55; width:960px; height:360px; margin:auto; padding-top:0px; overflow: hidden;
 	box-shadow:0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow:0px 1px 2px rgba(0, 0, 0, 0.3); -webkit-box-shadow:0px 1px 2px rgba(0, 0, 0, 0.3);
-	background:#93643a url("https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_bg.jpg") repeat; background-position:0 30px;
+	background:#93643a url(https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_bg.jpg) repeat; background-position:0 30px;
 }
 .panel_slider a,visited { color:#777; text-decoration:none; }
 .panel_slider a:hover { color:#333; }
@@ -60,7 +60,7 @@
 /* panel bar */
 
 .panel_bar { 
-	background:#93643a url("https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_bottom_bg.jpg") repeat-x left bottom; width:960px; height:60px; text-align:center; margin:0 auto; overflow: hidden;
+	background:#93643a url(https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_bottom_bg.jpg) repeat-x left bottom; width:960px; height:60px; text-align:center; margin:0 auto; overflow: hidden;
 	border-top:none; font-size:12px; font-family:Arial, Helvetica, sans-serif; letter-spacing:1px;
 	box-shadow:0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow:0px 1px 2px rgba(0, 0, 0, 0.3); -webkit-box-shadow:0px 1px 2px rgba(0, 0, 0, 0.3);
 }
@@ -73,7 +73,7 @@
 
 /* slides */
 
-.slide_animate { position:relative; margin:0; padding:0; left:0px; top:0px; float:left; background:url("https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_bg.jpg") repeat; background-position:0 30px; display:block; }
+.slide_animate { position:relative; margin:0; padding:0; left:0px; top:0px; float:left; background:url(https://github.com/momsbaye/aihfolder/blob/master/bookshelf_skin01_bg.jpg) repeat; background-position:0 30px; display:block; }
 .slide_animate img { display:block; }
 
 /* products */
@@ -102,13 +102,13 @@
 .icons_sprite { 
 	position:absolute; left:0; top:0; 
 	display:block; width:24px; height:24px;
-	background:transparent url("https://github.com/momsbaye/aihfolder/blob/master/icons_sprite.png") no-repeat; background-position:0 0; 
+	background:transparent url(https://github.com/momsbaye/aihfolder/blob/master/icons_sprite.png) no-repeat; background-position:0 0; 
 }
 
 /* arrow */
 
 #arrow_box { text-align:left; }
-#arrow_menu { position:relative; left:10px; background:transparent url("https://github.com/momsbaye/aihfolder/blob/master/arrow.png") no-repeat; width:20px; height:12px; display:none; }
+#arrow_menu { position:relative; left:10px; background:transparent url(https://github.com/momsbaye/aihfolder/blob/master/arrow.png) no-repeat; width:20px; height:12px; display:none; }
 
 #debug { background-color:#eee; border:#ddd dashed 1px; min-height:15px; width:944px; margin:40px auto; font-size:12px; font-family:Arial, Helvetica, sans-serif; padding:8px; }
 
@@ -143,13 +143,13 @@
 */
 
 #preload_icon { left:40%; top:40%; position:absolute; }
-#bs_close_button { width:30px; height:30px; float:right; cursor:pointer; background:#fff url("https://github.com/momsbaye/aihfolder/blob/master/btn_close.png") no-repeat; }
+#bs_close_button { width:30px; height:30px; float:right; cursor:pointer; background:#fff url(https://github.com/momsbaye/aihfolder/blob/master/btn_close.png) no-repeat; }
 
 
 /* arrows navigate */
 
 #more_minus_box {
-	z-index:1; position:absolute; bottom:50px; right:10px; width:24px; height:50px; background:url("https://github.com/momsbaye/aihfolder/blob/master/nav_bg.png") repeat; padding:2px; opacity:0;
+	z-index:1; position:absolute; bottom:50px; right:10px; width:24px; height:50px; background:url(https://github.com/momsbaye/aihfolder/blob/master/nav_bg.png) repeat; padding:2px; opacity:0;
 	box-shadow:0px 0px 8px rgba(0, 0, 0, 0.7); -moz-box-shadow:0px 0px 8px rgba(0, 0, 0, 0.7); -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.7);
 }
 
